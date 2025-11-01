@@ -58,10 +58,10 @@ dist
 .idea
 *db.sqlite*
 /django_silky/media
+temp_auto_push.bat
 *.prof
 project/media/
 project/tmp/
-.vscode/
 
 # Hardlinks
 /django_silky/silk
@@ -119,3 +119,6 @@ fabric.properties
 
 package-lock.json
 *.db
+.gitignore
+temp_interactive_push.bat
+branch_structure.json
